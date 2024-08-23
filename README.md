@@ -1,11 +1,18 @@
 ## Node js Greeting
 
-- This is the node js project which utilized the npm package created by me.
+- This is the node js project which utilized the npm package greet-creativec which is created by me.
 
-### npm package details
+### npm package Link
 
 - https://www.npmjs.com/package/greet-creativec
-- npm i greet-creativec
+
+### To install the package
+
+- Run `npm i greet-creativec`
+
+### Github Repo for this package
+
+- https://github.com/chetanalotliker/npm-greet-creativec
 
 ### API Link
 
@@ -13,7 +20,7 @@
 
 ### Demo
 
-#### GET:
+#### Endpoints
 
 - https://node-greeting.onrender.com/
 - https://node-greeting.onrender.com/?name=mark
