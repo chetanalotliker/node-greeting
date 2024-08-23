@@ -7,6 +7,13 @@
 - https://www.npmjs.com/package/greet-creativec
 - npm i greet-creativec
 
-### Demo
+### API Link
 
 - https://node-greeting.onrender.com
+
+### Demo
+
+#### GET:
+
+- https://node-greeting.onrender.com/
+- https://node-greeting.onrender.com/?name=mark
