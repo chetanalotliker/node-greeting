@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "greet-creativec": "^1.0.1"
+    "express": "^4.19.2",
+    "greet-creativec": "^1.0.3"
   }
 }
